@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - OpenStreetMap",
+	"description": "This is a repository of openstreetmap APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/openstreetmap.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://openstreetmap.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "OpenStreetMap",
+			"x-api-slug": "openstreetmap",
+			"description": "OpenStreetMap is the free wiki world map.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2017-openstreetmap.jpg",
+			"humanURL": "http://www.openstreetmap.org/",
+			"baseURL": "https:// http:///nominatim.openstreetmap.org",
+			"tags": "OpenStreetMap",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/openstreetmap/master/_listings/openstreetmap/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "OpenStreetMap",
+	"include": [
+		{
+			"name": "OpenStreetMap",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/openstreetmap/master/_listings/openstreetmap/apis.yaml"
+		}
+	]
+}

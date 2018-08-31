@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: OpenStreetMap
 x-complete: 1
@@ -72,4 +71,3 @@ paths:
       - Maps
       - OSM
       - Search
----

@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2017-opens
 x-kinRank: "10"
 x-alexaRank: "6266"
 tags: OpenStreetMap
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-30"
+modified: "2018-08-30"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/openstreetmap/master/_listings/openstreetmap/apis.md
 specificationVersion: "0.14"
 apis:
